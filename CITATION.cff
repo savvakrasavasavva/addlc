@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or reference ADDLC, please cite it as below."
+title: "ADDLC: The Agentic Data Development Lifecycle - Specification"
+version: 1.0.0
+date-released: "2026-11-10"
+authors:
+  - family-names: Lukhnev
+    given-names: Savva
+license: CC-BY-4.0
+abstract: >-
+  A vendor-neutral lifecycle for data teams working with AI agents:
+  decision rights between humans, agents and controls; seven phases and
+  four evidence-based gates; autonomy assigned per change class, earned
+  with evidence and lost with escapes; segregation of Build and Run;
+  a stewarded change channel for master and reference data; metrics and
+  conformance levels.
+references:
+  - type: article
+    title: "The Agentic Data Development Lifecycle (ADDLC)"
+    authors:
+      - family-names: Lukhnev
+        given-names: Savva
+    year: 2026
+    url: "https://medium.com/@savvakrasava/agentic-data-development-lifecycle-addlc-d40122a46e2c"
